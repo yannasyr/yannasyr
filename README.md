@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Yann.
 
 - 🌱 I’m currently learning on my own about LLM and NLP stuff.
-- 🤔 I'm wondering what project start to give my C/C++ skills a little upgrade! 
+- 🤔 I'm wondering what project I could start to give my C/C++ skills a little upgrade! 
 - 🔭 I’m currently searching an internship in Computer Vision / AI / Signal Processing ...
 
 ## 🛠️ Languages, Tools, and OS:

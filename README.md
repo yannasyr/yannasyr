@@ -1,6 +1,5 @@
 ## Hi there 👋, I'm Yann.
 
-- 🌱 Currently working on my C++ skills.
 - 🔭 I’m currently searching an internship in Computer Vision / AI / Signal Processing ...
 
 ## 🛠️ Languages, Tools, and OS:

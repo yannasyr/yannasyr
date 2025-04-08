@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Yann.
 
-- 🔭 I’m currently searching an internship in Computer Vision / AI / Signal Processing ...
+- 👨‍💻 Currently diving into uncertainty quantification in deep learning !
 
 ## 🛠️ Languages, Tools, and OS:
 
